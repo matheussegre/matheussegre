@@ -5,7 +5,12 @@
 
 ## 📝 About Me
 Studying to become a fullstack developer<br/><br/>
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussegre&show_icons=true&theme=radical)
+<a href="https://github.com/matheussegre/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheussegre&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/matheussegre/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussegre&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 ## 🌱 I’m currently learning ...
 [![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -16,3 +21,5 @@ Studying to become a fullstack developer<br/><br/>
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussegre.soares@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-segre/)
+
+
