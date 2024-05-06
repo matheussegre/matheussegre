@@ -10,7 +10,7 @@ Studying to become a fullstack developer<br/><br/>
 </a>
 
 ## 🌱 I’m currently learning ...
-[![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ## 📚 I’m interested in learning ...
 [![Learning](https://skillicons.dev/icons?i=java,py,react,ts)](https://skillicons.dev)
