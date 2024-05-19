@@ -1,7 +1,7 @@
 # Hi there, I'm Matheus Segre 👋
 
 ## 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,git,github,figma,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,git,figma,nodejs)](https://skillicons.dev)
 
 ## 📝 About Me
 Studying to become a fullstack developer<br/><br/>
