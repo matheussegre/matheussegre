@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matheussegre.matheussegre" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=60&pause=1000&color=248CF7&background=2DFFF200&center=true&vCenter=true&width=1200&height=150&lines=Hey!+%F0%9F%96%90;Welcome%2C+I'm+Matheus+Segre!;Please%2C+take+a+look!+%F0%9F%91%80)](https://git.io/typing-svg)
 # Hi there, I'm Matheus Segre 👋
 
 ## 🚀 My Skills
