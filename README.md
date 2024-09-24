@@ -5,7 +5,7 @@
 ## 🚀 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,git,figma,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,git,figma,nodejs,ts,mysql,dotnet" />
   </a>
 </p>
 
