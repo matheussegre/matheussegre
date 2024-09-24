@@ -30,7 +30,19 @@
 <hr/>
 
 ## 🔗 Links
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussegre.soares@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-segre/)
+<div>
+  <div align="left">
+    <a href="mailto:matheussegre.soares@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-segre/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-008B8B?style=for-the-badge"/>
+    </a>
+     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matheussegre.matheussegre" />
+  </div>
+</div>
 
 
