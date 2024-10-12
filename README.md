@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/matheussegre/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussegre&layout=compact&langs_count=9&card_width=525&theme=tokyonight&border_radius=20" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussegre&layout=compact&langs_count=20&card_width=525&theme=tokyonight&border_radius=20" />
   </a>
 </div>
 
